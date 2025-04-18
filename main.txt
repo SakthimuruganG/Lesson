@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 city : none
+=======
+city : Chennai
+>>>>>>> Stashed changes
