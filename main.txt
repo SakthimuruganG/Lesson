@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 city : none
 =======
 city : Chennai
 >>>>>>> Stashed changes
+=======
+city : Coimbatore
+>>>>>>> 5422e1168e531fa353d880ecf0868aa9e4375698
